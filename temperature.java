@@ -7,6 +7,10 @@ public class temperature
 		int tempK= sc.nextInt();
 		int tempC=tempK - 273;
 		System.out.print("The temperature in Celcius is: ");
-	    System.out.println(tempC);
+
+		 
+	    	System.out.println(tempC);
+		System.out.print("BEST PROJECT EVER! ");
 	}
 }
+
